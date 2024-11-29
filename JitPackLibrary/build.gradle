@@ -55,7 +55,7 @@ publishing {
             artifactId = 'com-vasp-jitpacklibrary'
             version = "1.0"
             pom {
-                description = 'First release'
+                description = 'First Release'
             }
         }
     }
